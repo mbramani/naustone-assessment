@@ -1,0 +1,84 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "account_no": "001234",
+      "division": "23",
+      "country": "US",
+      "legacy_no": "12",
+      "legacy_division": "433"
+    },
+    {
+      "id": 2,
+      "account_no": "002345",
+      "division": "24",
+      "country": "CA",
+      "legacy_no": "13",
+      "legacy_division": "456"
+    },
+    {
+      "id": 3,
+      "account_no": "003456",
+      "division": "25",
+      "country": "MX",
+      "legacy_no": "14",
+      "legacy_division": "789"
+    },
+    {
+      "id": 4,
+      "account_no": "004567",
+      "division": "26",
+      "country": "GB",
+      "legacy_no": "15",
+      "legacy_division": "987"
+    },
+    {
+      "id": 5,
+      "account_no": "005678",
+      "division": "27",
+      "country": "FR",
+      "legacy_no": "16",
+      "legacy_division": "654"
+    },
+    {
+      "id": 6,
+      "account_no": "006789",
+      "division": "28",
+      "country": "DE",
+      "legacy_no": "17",
+      "legacy_division": "321"
+    },
+    {
+      "id": 7,
+      "account_no": "007890",
+      "division": "29",
+      "country": "JP",
+      "legacy_no": "18",
+      "legacy_division": "654"
+    },
+    {
+      "id": 8,
+      "account_no": "008901",
+      "division": "30",
+      "country": "KR",
+      "legacy_no": "19",
+      "legacy_division": "987"
+    },
+    {
+      "id": 9,
+      "account_no": "009012",
+      "division": "31",
+      "country": "CN",
+      "legacy_no": "20",
+      "legacy_division": "123"
+    },
+    {
+      "id": 10,
+      "account_no": "010123",
+      "division": "32",
+      "country": "IN",
+      "legacy_no": "21",
+      "legacy_division": "456"
+    }
+  ]
+}
